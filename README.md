@@ -55,7 +55,7 @@ In this work, I decided to focused on the **3D geometry** of the ski.
 1. Open the geometry files in your favorite CAD/FEA software.  
 2. Apply boundary conditions and load cases as you wish. 
 3. Compare numerical deflections with the provided experimental data.  
-4. Use the results to validate or refine the material model and try to approach the experiment results!
+4. Use the results to validate or refine the material model and try to approach the experimental results!
 
 ---
 
