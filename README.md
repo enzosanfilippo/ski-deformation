@@ -11,7 +11,7 @@ Three different modeling approaches were considered:
 I realised this work with two teammates. 
 In this work, I decided to focused on the **3D geometry** of the ski.  
 
----
+
 
 ## Methodology  
 
@@ -35,21 +35,21 @@ In this work, I decided to focused on the **3D geometry** of the ski.
   - Friction at supports,  
   - Non-linear effects due to large displacements.  
 
----
+
 
 ## Objectives  
 - Evaluate the equivalent stiffness of the ski and its deflection behavior.  
 - Determine whether classical beam theory remains valid under large displacements.  
 - Highlight differences between simulation and experimental results.  
 
----
+
 
 ## Repository Structure  
 - /geometry/ → CAD files of the ski (3D geometry Catia)
 - /simulation/ → Numerical models and results (Abaqus or equivalent)
 - /final presention/ → Presentation support made for the final oral.
 
----
+
 
 ## How to Use  
 1. Open the geometry files in your favorite CAD/FEA software.  
@@ -57,7 +57,7 @@ In this work, I decided to focused on the **3D geometry** of the ski.
 3. Compare numerical deflections with the provided experimental data.  
 4. Use the results to validate or refine the material model and try to approach the experimental results!
 
----
+
 
 ## Academic Context  
 This project was conducted as part of the **Mechanical Engineering program at ENSEM**. It contributes to the understanding of composite structures under flexural loading and their modeling at different levels of complexity.  
