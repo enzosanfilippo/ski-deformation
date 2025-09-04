@@ -8,7 +8,8 @@ Three different modeling approaches were considered:
 2. **Mid-plane Model**  
 3. **3D Geometry Model**  
 
-In this work, the focus was placed on the **3D geometry** of the ski.  
+I realised this work with two teammates. 
+In this work, I decided to focused on the **3D geometry** of the ski.  
 
 ---
 
@@ -44,3 +45,20 @@ In this work, the focus was placed on the **3D geometry** of the ski.
 ---
 
 ## Repository Structure  
+/geometry/ → CAD files of the ski (3D geometry Catia)
+/simulation/ → Numerical models and results (Abaqus or equivalent)
+/final presention/ → Presentation support made for the final oral.
+
+---
+
+## How to Use  
+1. Open the geometry files in your favorite CAD/FEA software.  
+2. Apply boundary conditions and load cases as you wish. 
+3. Compare numerical deflections with the provided experimental data.  
+4. Use the results to validate or refine the material model and try to approach the experiment results!
+
+---
+
+## Academic Context  
+This project was conducted as part of the **Mechanical Engineering program at ENSEM**. It contributes to the understanding of composite structures under flexural loading and their modeling at different levels of complexity.  
+
