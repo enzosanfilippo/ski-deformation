@@ -45,9 +45,9 @@ In this work, I decided to focused on the **3D geometry** of the ski.
 ---
 
 ## Repository Structure  
-/geometry/ → CAD files of the ski (3D geometry Catia)
-/simulation/ → Numerical models and results (Abaqus or equivalent)
-/final presention/ → Presentation support made for the final oral.
+- /geometry/ → CAD files of the ski (3D geometry Catia)
+- /simulation/ → Numerical models and results (Abaqus or equivalent)
+- /final presention/ → Presentation support made for the final oral.
 
 ---
 
